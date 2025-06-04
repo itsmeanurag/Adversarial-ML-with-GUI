@@ -1,0 +1,12 @@
+streamlit
+tensorflow
+adversarial-robustness-toolbox
+numpy
+Pillow
+scikit-learn
+matplotlib
+opencv-python
+# For GTSRB:
+wget
+# For ImageNet (subset):
+# If you plan to use pretrained models from keras.applications
